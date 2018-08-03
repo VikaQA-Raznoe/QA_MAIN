@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Otus" verbose="1" parallel="classes" thread-count="3">
+    <test name="BlazeDemo">
+        <classes>
+            <class name="ru.lesson.tests.DuckDuckgoTest"></class>
+            <class name="ru.lesson.tests.DuckDuckgoTest2"></class>
+        </classes>
+    </test>
+</suite>
