@@ -32,14 +32,14 @@ Selenoid
 ***
 Шаг первый:
 ***
-![Шаг первый:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallDocker-1.png)
+![Шаг первый:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallDocker-1.png)
 Шаг второй:
 ***
-![Шаг второй:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallDocker-2.png)
+![Шаг второй:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallDocker-2.png)
 ***
 Шаг третий:
 ***
-![Шаг третий:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallDocker-3.png)
+![Шаг третий:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallDocker-3.png)
 ***
 
 Установка Selenoid на Linux
@@ -47,19 +47,19 @@ Selenoid
 ***
 Шаг первый:
 ***
-![Шаг первый:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallSelenoid-1.png)
+![Шаг первый:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallSelenoid-1.png)
 ***
 Шаг второй:
 ***
-![Шаг второй:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallSelenoid-2.png)
+![Шаг второй:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallSelenoid-2.png)
 ***
 Шаг третий:
 ***
-![Шаг третий:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallSelenoid-3.png)
+![Шаг третий:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallSelenoid-3.png)
 ***
 Шаг четвертый:
 ***
-![Шаг четвертый:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/InstallSelenoid-4.png)
+![Шаг четвертый:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/InstallSelenoid-4.png)
 ***
 Проброс портов в VirtualBox
 -----------------------------------
@@ -77,12 +77,12 @@ Selenoid
 Выполнение тестов в 3 потока на Selenoid:
 * два теста + главный топок, в котором запускается приложение
 ***
-![Три потока:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/MultiThread.bmp)
+![Три потока:](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/MultiThread.bmp)
 ***
 VNC
 -----------------------------------
 ***
 Подключение по протоколу VNC к контейнеру и просмотр хода выполнения теста.
 ***
-![экран VNC](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/IMAGES/VNC.bmp)
+![экран VNC](https://github.com/VikaQA-Raznoe/QA_MAIN/blob/master/Selenoid%20Home%20Work(после%20урока%2026)/IMAGES/VNC.bmp)
 ***
